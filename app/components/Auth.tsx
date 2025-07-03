@@ -1,0 +1,8 @@
+// ./components/Auth.tsx
+import React from 'react';
+
+const Auth = () => {
+  return <div>Auth Component</div>;
+};
+
+export default Auth;  // Ensure default export
